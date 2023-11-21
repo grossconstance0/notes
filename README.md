@@ -20,3 +20,6 @@ Let's GO
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. By using task management tools, such as Trello or Asana, you can keep track of your progress and make sure you don't get sidetracked.
 
 Remember to take breaks throughout the day to avoid burnout and maintain focus. Additionally, don’t be afraid to ask for help or advice from your colleagues or online communities. There is always someone willing to share their knowledge and experience.
+
+# 2023-11-21
+- "Today's programming wisdom is to write code that is easy to understand and maintain. This means using clear and descriptive variable names, writing comments to explain complex logic, and breaking down large functions into smaller, more manageable pieces. It also means following best practices and conventions, such as using consistent formatting and adhering to naming conventions. Writing code that is easy to understand and maintain not only makes it easier for others to work with your code, but it also makes it easier for you to remember what you did and why you did it, which can save time and reduce errors in the long run."
