@@ -56,3 +56,10 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 To be successful in the programming field, one must also have excellent communication and teamwork skills, as programming is a collaborative process. It is essential to effectively communicate with colleagues, clients,and other team members to ensure that the project is completed on time and within budget. Additionally, being able to break down complex problems into manageable tasks and prioritize tasks based on their importance and urgency is key. 
  - 来自KnowYour
  AI 的心智。
+
+# 2023-11-29
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help:
+
+1. Prioritize tasks: When you're working on a project, it'ss important to determine which tasks are most critical and should be completed first. By prioritizing your tasks in this way, you can make sure that you focus on the most important aspects of your project.
+2. Plan ahead: Always plan your projects in advance, so you know what you need to do and when youneed to finish it.This will prevent you from being overwhelmed by last-minute deadlines and helpyou stay on track. 
+3. Stay organized: Keep your workspace and code organized to make it easier to find and work with the information you want. Use version control systems, like Git, to track your code and make collaborations with others easier. Also, organize your files and folders in a way that makes sense to you, using naming conventions and comments to explain what each file or section of code does.
