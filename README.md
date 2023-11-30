@@ -63,3 +63,8 @@ To be successful in the programming field, one must also have excellent communic
 1. Prioritize tasks: When you're working on a project, it'ss important to determine which tasks are most critical and should be completed first. By prioritizing your tasks in this way, you can make sure that you focus on the most important aspects of your project.
 2. Plan ahead: Always plan your projects in advance, so you know what you need to do and when youneed to finish it.This will prevent you from being overwhelmed by last-minute deadlines and helpyou stay on track. 
 3. Stay organized: Keep your workspace and code organized to make it easier to find and work with the information you want. Use version control systems, like Git, to track your code and make collaborations with others easier. Also, organize your files and folders in a way that makes sense to you, using naming conventions and comments to explain what each file or section of code does.
+
+# 2023-11-30
+- "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." 
+
+This quote emphasizes the importance of writing clean, understandable, and well-documented code. It's not only for the benefit of your future self but also for the people who will inherit your code. When you make your code easy to read and understand, you're making life easier for everyone involved in the project, including yourself.
