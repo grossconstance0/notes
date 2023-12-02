@@ -71,3 +71,8 @@ This quote emphasizes the importance of writing clean, understandable, and well-
 
 # 2023-12-01
 - "Keep it simple, stupid!"
+
+# 2023-12-02
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code too early in the development process can lead to unnecessary complexity and potential bugs. It's often better to write clean, simple code first and optimize only when necessary, based on profiling and performance metrics.
