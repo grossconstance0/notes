@@ -153,3 +153,8 @@ Remember to take breaks throughout the day to clear your mind and refocus. Avoid
 
 # 2023-12-19
 - Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. This quote reminds us that optimizing code before it's necessary can lead to unnecessary complexity, bugs, and wasted time. It's important to write clean, maintainable code first and optimize only when profiling indicates a bottleneck.
+
+# 2023-12-20
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+Focus on writing clear, correct and maintainable code first. Optimization should only be done after profiling and identifying bottlenecks in your program.
