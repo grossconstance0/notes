@@ -158,3 +158,6 @@ Remember to take breaks throughout the day to clear your mind and refocus. Avoid
 - "Premature optimization is the root of all evil." - Donald Knuth. 
 
 Focus on writing clear, correct and maintainable code first. Optimization should only be done after profiling and identifying bottlenecks in your program.
+
+# 2023-12-21
+- "Keep it simple, stupid!"
