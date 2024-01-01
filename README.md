@@ -212,3 +212,6 @@ Remember to stay flexible and adapt to changes in the project. You might need to
 1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By giving priority to the critical tasks first, you can ensure that your project stays on track and meets its deadlines. Use a task management tool, such as Trello or Asana, to help keep track of your tasks and prioritize them accordingly. 
  2. Plan ahead: Planning is crucial for any project. When starting a new project or undertaking a large task, take the time to plan out the entire process. Create a roadmap that outlines the steps needed to complete the task and the resources required. Planning ahead will prevent you from getting stuck in the middle of a problem and help ensure a smoother execution.  
 3. Stay organized: As a programmer, maintaining a clean and organized codebase is vital. Organizing your code will make it easier to find and fix errors, add new features, or maintain the code in general. Follow coding conventions and use version control systems, like Git, regularly to keep your work organized and trackable. Additionally, use code editors and IDE' s with code navigation and autocomplete features to make your life easier.
+
+# 2024-01-01
+- "Keep it simple, stupid!"
