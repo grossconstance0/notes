@@ -229,3 +229,8 @@ Also, "Code is meant to be read by humans and only incidentally executed by mach
 
 Second, make a plan for your day or week, breaking down larger projects into smaller, manageable tasks. Using a task management tool, such as Trello or Asana, can help keep you organized and on track. Set reminders and deadline for each task, so that you stay focused and don't procrastinate. 
  - 来自n.p.s.
+
+# 2024-01-04
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clean, maintainable code first. Optimize only when necessary and after profiling. Remember that clarity and simplicity often lead to better performance in the long run." 
+
+This quote by computer scientist Donald Knuth emphasizes the importance of avoiding unnecessary optimization early in the development process. It suggests that a programmer should initially concentrate on making their code clear, correct, and easily understandable before focusing on making it faster. This principle reminds us that over-optimization without evidence can lead to overly complex code, which might decrease overall productivity and introduce bugs that are harder to find and fix.
