@@ -288,3 +288,8 @@ Next, planning ahead is crucial. Before starting a new project or a difficult ta
 
 In addition to staying up to date with technological advancements, being a good programmer also means being able to work well with others. That means communicating effectively, both verbally and in writing, as well as being willing to listen and learn from others' experiences and knowledge. Collaboration is key in the world of programming, so being capable of working with a team is vital. 
  - 来自NLP
+
+# 2024-01-18
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clear, maintainable code first and optimize only when necessary, after profiling and identifying bottlenecks. Remember that simplicity, readability, and modularity often lead to better performance in the long run." 
+
+In essence, this quote from computer scientist Donald Knuth emphasizes that trying to optimize code too early without proper analysis can introduce unnecessary complexity and bugs, which are far more detrimental than potential performance gains. Always prioritize understanding and clarity before rushing into optimizations.
