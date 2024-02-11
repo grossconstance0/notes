@@ -417,3 +417,6 @@ In addition to learning new skills, don't be afraid to ask for help or collabora
 
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project timeline. You can use the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them accordingly. 
  其次，提前计划。在开始编程之前，确保你了解项目的需求和目标。这将帮助你避免在项目过程中出现意外问题。使用版本控制系统（如Git）来跟踪代码更改，并确保在提交代码之前对其进行测试。 此外，保持代码整洁和模块化，以便于维护和扩展。 最后，不断学习和提高你的技能。随着技术的发展，新的编程语言和框架不断涌现。保持学习新知识，了解最新的技术趋势，将有助于你在编程领域保持竞争力。
+
+# 2024-02-11
+- "Keep it simple, stupid!"
